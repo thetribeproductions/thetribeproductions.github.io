@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle=""
+	showThumbsButton="true"
+	showOpenButton="false"
+
+>
+  <image imageURL="images/LSIRS_program_image1.jpg"
+	thumbURL="thumbs/LSIRS_program_image1.jpg"
+	linkURL="images/LSIRS_program_image1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/jlloyd/Downloads/digitalprogramimages/LSIRS_program_image1.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/LSIRS_program_image2.jpg"
+	thumbURL="thumbs/LSIRS_program_image2.jpg"
+	linkURL="images/LSIRS_program_image2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/jlloyd/Downloads/digitalprogramimages/LSIRS_program_image2.jpg">
+    <title><![CDATA[The Setting]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/LSIRS_program_image3.jpg"
+	thumbURL="thumbs/LSIRS_program_image3.jpg"
+	linkURL="images/LSIRS_program_image3.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/jlloyd/Downloads/digitalprogramimages/LSIRS_program_image3.jpg">
+    <title><![CDATA[Director's Greeting]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/LSIRS_program_image4.jpg"
+	thumbURL="thumbs/LSIRS_program_image4.jpg"
+	linkURL="images/LSIRS_program_image4.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/jlloyd/Downloads/digitalprogramimages/LSIRS_program_image4.jpg">
+    <title><![CDATA[Carole Catanzaro]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/LSIRS_program_image5.jpg"
+	thumbURL="thumbs/LSIRS_program_image5.jpg"
+	linkURL="images/LSIRS_program_image5.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/jlloyd/Downloads/digitalprogramimages/LSIRS_program_image5.jpg">
+    <title><![CDATA[Sean Benedict]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/LSIRS_program_image6.jpg"
+	thumbURL="thumbs/LSIRS_program_image6.jpg"
+	linkURL="images/LSIRS_program_image6.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/jlloyd/Downloads/digitalprogramimages/LSIRS_program_image6.jpg">
+    <title><![CDATA[Tony Oliver]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/LSIRS_program_image7.jpg"
+	thumbURL="thumbs/LSIRS_program_image7.jpg"
+	linkURL="images/LSIRS_program_image7.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/jlloyd/Downloads/digitalprogramimages/LSIRS_program_image7.jpg">
+    <title><![CDATA[Dustin Hart]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/LSIRS_program_image8.jpg"
+	thumbURL="thumbs/LSIRS_program_image8.jpg"
+	linkURL="images/LSIRS_program_image8.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/jlloyd/Downloads/digitalprogramimages/LSIRS_program_image8.jpg">
+    <title><![CDATA[Tia Renée Konsur]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/LSIRS_program_image9.jpg"
+	thumbURL="thumbs/LSIRS_program_image9.jpg"
+	linkURL="images/LSIRS_program_image9.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/jlloyd/Downloads/digitalprogramimages/LSIRS_program_image9.jpg">
+    <title><![CDATA[George Cummings]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/LSIRS_program_image10.jpg"
+	thumbURL="thumbs/LSIRS_program_image10.jpg"
+	linkURL="images/LSIRS_program_image10.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/jlloyd/Downloads/digitalprogramimages/LSIRS_program_image10.jpg">
+    <title><![CDATA[Stephanie O'Connor]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/LSIRS_program_image11.jpg"
+	thumbURL="thumbs/LSIRS_program_image11.jpg"
+	linkURL="images/LSIRS_program_image11.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/jlloyd/Downloads/digitalprogramimages/LSIRS_program_image11.jpg">
+    <title><![CDATA[Justin Taylor / Domynique Dickson-Thorpe]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/LSIRS_program_image12.jpg"
+	thumbURL="thumbs/LSIRS_program_image12.jpg"
+	linkURL="images/LSIRS_program_image12.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/jlloyd/Downloads/digitalprogramimages/LSIRS_program_image12.jpg">
+    <title><![CDATA[Christopher Chase / Tiffany Oliver]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
